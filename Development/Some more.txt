@@ -1,0 +1,73 @@
+props passing from  1. parent to child, 2. from child to parent.
+How many components are there
+
+  
+INTERVIEW 
+
+What is difference bt frontend and backend?
+difference between library and  framework
+parseINT()
+what is CDN?
+00:31 Semantic elements in HTML
+03:55 Semantic elements help with SEO and code readability
+10:34 Global attributes are versatile for various text types
+13:30 SVG vs Canvas: Key Differences
+19:07 Difference between inline elements and replaced inline elements.
+21:51 Difference between box-sizing border-box and box-sizing content-box
+26:51 JavaScript history and characteristics
+29:49 Dynamic vs Statically Typed Languages
+34:52 Understanding hosted variables and function declarations in JavaScript
+37:30 Difference between params and arguments
+42:13 React is preferred over vanilla JavaScript for more features and flexibility.
+45:42 Understanding JavaScript script tag placement in HTML
+51:34 Understanding Rest Parameter in JavaScript
+54:29 Troubleshooting console errors related to let and const
+1:00:55 Explanation of asynchronous process timing in JavaScript
+1:03:54 Understanding Asynchronous JavaScript Functions
+1:12:12 Handling JavaScript error related to 'await'
+1:15:07 Making API call and displaying user data in a card
+1:23:47 Showing name, email, and address in a user display.
+1:28:09 Understanding data overwriting in JavaScript
+1:35:57 Improving Clarity and Skills for Frontend Interviews
+1:38:20 Confidence increases with more interviews
+1:43:13 Stay active on LinkedIn and groups
+1:45:43 Networking for Freelancing Opportunities
+HTML
+
+1) what is doctype in Html ?
+2) what is the use if Alt tag in Html?
+3)what is sementic tag in Html?
+4)what is the purpose of head tag in Html?
+5)what is defer attribute in Html?
+6)what are attributes in Html?
+7)what is the difference between div and span tag in Html?
+
+CSS
+
+8)what is the fullform of css ?
+9)what is the meaning of cascading ?
+10)what is box model in CSS?
+11)what is box model in css ?
+12)what is the defference between box sizing borderbox and content box ?
+
+Javascript
+
+13) Javascript is single threaded or multithreaded ?
+14)what are different datatypes in Javascript?
+15)what is the defference between let and var ?
+16) what is BOM ?
+17)what is DOM ? explain
+
+find the output?
+18)var x = 20
+function foo(){
+console.log(x)
+var x = 10
+}
+foo();
+
+find the output?
+21)console.log(typeOf NaN);
+
+find the output?
+22)console.log(NaN===NaN) ;
